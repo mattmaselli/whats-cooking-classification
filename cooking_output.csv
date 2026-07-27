@@ -69,7 +69,7 @@ id,cuisine
 830557,southern_us
 830572,chinese
 830580,jamaican
-830586,italian
+830586,french
 830587,indian
 830592,italian
 830603,mexican
@@ -232,7 +232,7 @@ id,cuisine
 831851,japanese
 831855,indian
 831865,southern_us
-831877,southern_us
+831877,french
 831882,mexican
 831894,greek
 831901,indian
@@ -328,7 +328,7 @@ id,cuisine
 832681,southern_us
 832701,southern_us
 832702,indian
-832705,british
+832705,italian
 832712,mexican
 832721,french
 832731,indian
@@ -376,7 +376,7 @@ id,cuisine
 833076,irish
 833077,mexican
 833089,japanese
-833102,cajun_creole
+833102,southern_us
 833109,greek
 833115,mexican
 833122,southern_us
@@ -397,7 +397,7 @@ id,cuisine
 833320,italian
 833362,moroccan
 833390,mexican
-833399,italian
+833399,french
 833403,italian
 833408,italian
 833424,mexican
@@ -495,7 +495,7 @@ id,cuisine
 834196,filipino
 834201,brazilian
 834202,southern_us
-834210,italian
+834210,french
 834215,moroccan
 834226,southern_us
 834228,southern_us
@@ -639,7 +639,7 @@ id,cuisine
 835632,indian
 835638,mexican
 835668,southern_us
-835695,italian
+835695,french
 835697,cajun_creole
 835700,chinese
 835701,mexican
@@ -872,7 +872,7 @@ id,cuisine
 837917,mexican
 837921,chinese
 837922,greek
-837934,italian
+837934,french
 837952,thai
 837954,indian
 837960,french
@@ -1764,7 +1764,7 @@ id,cuisine
 846312,southern_us
 846323,southern_us
 846334,italian
-846359,mexican
+846359,indian
 846385,chinese
 846391,italian
 846392,moroccan
@@ -1817,7 +1817,7 @@ id,cuisine
 846785,mexican
 846798,vietnamese
 846802,indian
-846804,southern_us
+846804,french
 846823,japanese
 846825,southern_us
 846827,italian
@@ -2025,7 +2025,7 @@ id,cuisine
 848984,japanese
 849029,thai
 849030,italian
-849067,italian
+849067,brazilian
 849076,italian
 849079,korean
 849082,chinese
@@ -2491,7 +2491,7 @@ id,cuisine
 853413,mexican
 853452,chinese
 853470,italian
-853474,italian
+853474,moroccan
 853507,southern_us
 853530,southern_us
 853539,mexican
@@ -2663,7 +2663,7 @@ id,cuisine
 855297,italian
 855309,chinese
 855315,southern_us
-855344,french
+855344,italian
 855363,indian
 855375,italian
 855394,japanese
@@ -2826,7 +2826,7 @@ id,cuisine
 856818,spanish
 856824,cajun_creole
 856828,southern_us
-856830,spanish
+856830,french
 856839,italian
 856841,french
 856844,chinese
@@ -2866,7 +2866,7 @@ id,cuisine
 857132,greek
 857152,southern_us
 857156,mexican
-857157,italian
+857157,french
 857172,italian
 857187,mexican
 857190,italian
@@ -2970,7 +2970,7 @@ id,cuisine
 858066,italian
 858069,filipino
 858072,spanish
-858101,italian
+858101,irish
 858103,italian
 858106,japanese
 858115,italian
@@ -3033,7 +3033,7 @@ id,cuisine
 858758,italian
 858768,indian
 858774,thai
-858806,russian
+858806,french
 858821,indian
 858829,southern_us
 858843,southern_us
@@ -3544,7 +3544,7 @@ id,cuisine
 863607,filipino
 863626,mexican
 863631,french
-863639,italian
+863639,french
 863642,spanish
 863648,moroccan
 863653,mexican
@@ -3724,7 +3724,7 @@ id,cuisine
 865385,spanish
 865391,greek
 865400,moroccan
-865424,italian
+865424,spanish
 865439,korean
 865451,mexican
 865454,mexican
@@ -3836,7 +3836,7 @@ id,cuisine
 866475,chinese
 866476,chinese
 866485,chinese
-866495,italian
+866495,french
 866497,southern_us
 866508,southern_us
 866516,italian
@@ -3910,7 +3910,7 @@ id,cuisine
 867161,chinese
 867179,southern_us
 867181,moroccan
-867189,italian
+867189,french
 867206,italian
 867228,chinese
 867245,greek
@@ -4194,7 +4194,7 @@ id,cuisine
 870132,italian
 870134,italian
 870136,mexican
-870155,italian
+870155,french
 870159,british
 870186,mexican
 870190,italian
@@ -4309,7 +4309,7 @@ id,cuisine
 871271,greek
 871272,cajun_creole
 871276,mexican
-871282,filipino
+871282,brazilian
 871285,chinese
 871287,french
 871292,italian
@@ -4619,7 +4619,7 @@ id,cuisine
 874166,southern_us
 874173,italian
 874176,korean
-874178,italian
+874178,french
 874202,indian
 874205,thai
 874209,southern_us
@@ -4740,7 +4740,7 @@ id,cuisine
 875180,moroccan
 875209,italian
 875207,italian
-875235,brazilian
+875235,mexican
 875242,filipino
 875250,thai
 875253,indian
@@ -4884,7 +4884,7 @@ id,cuisine
 876849,mexican
 876855,thai
 876859,italian
-876863,french
+876863,italian
 876873,mexican
 876881,italian
 876905,japanese
@@ -4994,7 +4994,7 @@ id,cuisine
 877664,southern_us
 877670,italian
 877676,italian
-877731,greek
+877731,french
 877736,greek
 877753,italian
 877757,cajun_creole
@@ -5166,7 +5166,7 @@ id,cuisine
 879170,cajun_creole
 879191,jamaican
 879192,mexican
-879194,french
+879194,italian
 879198,mexican
 879208,mexican
 879210,mexican
@@ -5486,7 +5486,7 @@ id,cuisine
 882538,thai
 882565,korean
 882585,southern_us
-882591,southern_us
+882591,french
 882630,southern_us
 882637,indian
 882644,mexican
@@ -5916,7 +5916,7 @@ id,cuisine
 886892,italian
 886902,indian
 886905,spanish
-886930,vietnamese
+886930,korean
 886948,mexican
 886959,indian
 886961,french
@@ -5933,7 +5933,7 @@ id,cuisine
 887067,korean
 887068,mexican
 887073,japanese
-887082,southern_us
+887082,french
 887084,southern_us
 887105,italian
 887104,irish
@@ -6006,7 +6006,7 @@ id,cuisine
 887697,mexican
 887718,japanese
 887721,brazilian
-887729,irish
+887729,greek
 887742,southern_us
 887756,cajun_creole
 887760,italian
@@ -6071,7 +6071,7 @@ id,cuisine
 888272,southern_us
 888281,mexican
 888311,cajun_creole
-888327,cajun_creole
+888327,mexican
 888336,indian
 888342,indian
 888355,spanish
@@ -6504,7 +6504,7 @@ id,cuisine
 892466,southern_us
 892471,french
 892476,italian
-892472,italian
+892472,french
 892483,southern_us
 892487,french
 892491,indian
@@ -6677,7 +6677,7 @@ id,cuisine
 893872,indian
 893873,chinese
 893895,greek
-893900,italian
+893900,french
 893902,mexican
 893906,vietnamese
 893915,indian
@@ -7194,7 +7194,7 @@ id,cuisine
 898719,mexican
 898728,russian
 898744,spanish
-898756,italian
+898756,french
 898761,indian
 898765,mexican
 898772,italian
@@ -7403,7 +7403,7 @@ id,cuisine
 900587,mexican
 900589,french
 900592,spanish
-900598,jamaican
+900598,british
 900615,thai
 900630,filipino
 900636,mexican
@@ -7720,7 +7720,7 @@ id,cuisine
 903390,mexican
 903401,mexican
 903409,indian
-903412,mexican
+903412,jamaican
 903413,chinese
 903418,indian
 903439,brazilian
